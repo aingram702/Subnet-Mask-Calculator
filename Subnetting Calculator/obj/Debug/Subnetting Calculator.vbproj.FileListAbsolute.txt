@@ -1,0 +1,12 @@
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\bin\Debug\Subnetting Calculator.exe.config
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\bin\Debug\Subnetting Calculator.exe
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\bin\Debug\Subnetting Calculator.pdb
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\bin\Debug\Subnetting Calculator.xml
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\obj\Debug\Subnetting Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\obj\Debug\Subnetting_Calculator.frmSubnettingCalc.resources
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\obj\Debug\Subnetting_Calculator.Resources.resources
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\obj\Debug\Subnetting Calculator.vbproj.GenerateResource.cache
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\obj\Debug\Subnetting Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\obj\Debug\Subnetting Calculator.exe
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\obj\Debug\Subnetting Calculator.xml
+C:\Users\Andrew Ingram\source\repos\Subnetting Calculator\Subnetting Calculator\obj\Debug\Subnetting Calculator.pdb
